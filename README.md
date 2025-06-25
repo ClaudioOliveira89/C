@@ -1,6 +1,6 @@
 ## Repository created for programming and development in the C language.
 
-![C](https://img.shields.io/badge/-black?style=for-the-badge&logo=C&logoColor=25fafe)&nbsp;
+![C](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=C&logoColor=25fafe)&nbsp;
 
 This repository was created for academic purposes to document my learning journey with the C programming language — a structured, low-level, and highly powerful language, widely used in the development of operating systems, embedded software, and applications that require high performance and resource control.
 The main goal is to progressively explore the fundamentals of C, including data types, control structures, pointers, dynamic memory allocation, structs, file handling, and concepts related to compilation and linking.
