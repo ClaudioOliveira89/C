@@ -1,4 +1,4 @@
-### This repository documents my learning and development journey with the C, including practical projects, experiments, and notes.
+### This repository documents my learning and development journey with the C language, including practical projects, experiments, and notes.
 
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=25fafe)
 
